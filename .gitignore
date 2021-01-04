@@ -1,3 +1,11 @@
+.idea/
+sample/__MACOSX/
+sample/bank-additional/
+sample/mlruns/
+sample/bank-additional.zip
+venv/
+env.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
